@@ -1,4 +1,5 @@
 ## Exchange Rate
+[DEMO LINK](https://mishtal-andrii.github.io/exchange-rate/)
 
 Select countries to get the exchange rate for a specific amount
 
